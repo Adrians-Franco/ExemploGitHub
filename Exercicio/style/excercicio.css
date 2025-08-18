@@ -1,0 +1,26 @@
+         
+          
+        body{
+            background-color: #3a3a3a;
+            margin: 0 auto;
+            font-family: Arial, Helvetica, sans-serif;
+            color-interpolation-filters: Arial;
+        }
+      section{
+        background-color: rgb(131, 143, 121);
+        color: rgb(12, 12, 12);
+        padding: 10px ;
+        border-radius: 11px;
+        margin: 16px ;
+        box-shadow: rgba(10, 10, 10, 0.329) 0px 0px;
+        accent-color: gold ;
+        color-scheme: black   ;
+     }
+
+     header{
+        background-color: rgb(78, 22, 129);
+        text-align: center;
+        padding: 16px;
+        accent-color: blue;
+        column-rule: gold;
+     }
